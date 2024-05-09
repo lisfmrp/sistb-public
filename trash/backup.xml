@@ -1,0 +1,182 @@
+<export-database name="/data/data/br.com.tstb/databases/tb.db">
+	<paciente>
+		<nome>JOSE NILTON SEVERINO DA SILVA</nome>
+		<mae>MARIA DO CARMO GOMES DA SILVA</mae>
+		<idade>22</idade> 
+		<nascimento>1990-08-15</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>GILBERTO DOS SANTOS</nome>
+		<mae></mae>
+		<idade>0</idade> 
+		<nascimento>1963-01-01</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>Islan Henrique Salvador Freitas Silva</nome>
+		<mae>Maria Ilma Salvador de Freitas</mae>
+		<idade>18</idade> 
+		<nascimento>1994-11-27</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>Douglas Damiao Santos Carmo</nome>
+		<mae>Vilma Santos do Carmo</mae>
+		<idade>21</idade> 
+		<nascimento>1991-09-27</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>Leonardo Carlos Alves</nome>
+		<mae>Angeledia Alves</mae>
+		<idade>25</idade> 
+		<nascimento>1987-04-17</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>Cintia Da Silva Fernandes</nome>
+		<mae>Maria Aparecida da Silva</mae>
+		<idade>24</idade> 
+		<nascimento>1988-11-10</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>Eder Fabiano Carvalho Melo</nome>
+		<mae>Antonia de Carvalho Melo</mae>
+		<idade>27</idade> 
+		<nascimento>1985-10-07</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>Walmir Alves Batista</nome>
+		<mae>Joana Alves Batista</mae>
+		<idade>32</idade> 
+		<nascimento>1980-12-13</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>ANTONIO JOAO SANTANA</nome>
+		<mae>ELVINA MERNEWINA CONCEICAO SANTANA</mae>
+		<idade>47</idade> 
+		<nascimento>1965-09-14</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>CRISTIANE APARECIDA MARTINS</nome>
+		<mae>MALVINA PEDRINA GOMES MARTINS</mae>
+		<idade>38</idade> 
+		<nascimento>1975-02-15</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>MILLER CARLOS PINOCCI SANCHES</nome>
+		<mae>ISABEL CRISTINA P SANCHES</mae>
+		<idade>23</idade> 
+		<nascimento>1989-10-16</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>ADRIANO CARDOSO FERREIRA DA SILVA</nome>
+		<mae>MARIA JOSE CARDOSO</mae>
+		<idade>43</idade> 
+		<nascimento>1969-07-09</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>ILSON MIRANDA DA SILVA</nome>
+		<mae>MARIA T DE JESUS</mae>
+		<idade>51</idade> 
+		<nascimento>1961-09-27</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>EDCARLOS PEREIRA DE JESUS</nome>
+		<mae>NELI PEREIRA DE JESUS</mae>
+		<idade>34</idade> 
+		<nascimento>1978-07-22</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>JOSE FRANCISCO CORREIA</nome>
+		<mae>IZABEL DE BARROS</mae>
+		<idade>72</idade> 
+		<nascimento>1940-08-04</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>JOAO FERREIRA LEITE</nome>
+		<mae>MARGARIDA ALVES DE BARROS</mae>
+		<idade>72</idade> 
+		<nascimento>1940-10-06</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>RENATA CRISTINA DA SILVA</nome>
+		<mae>NELZA DA SILVA</mae>
+		<idade>40</idade> 
+		<nascimento>1972-10-01</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>JOSE ROBERTO DUARTE</nome>
+		<mae>RITA RIBEIRO DUARTE</mae>
+		<idade>49</idade> 
+		<nascimento>1964-01-02</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>JOSE SEBASTIAO LOPES</nome>
+		<mae>APARECIDA ALVES LOPES</mae>
+		<idade>62</idade> 
+		<nascimento>1950-04-14</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>ANDREIA VIEIRA</nome>
+		<mae>IVANIL VIEIRA</mae>
+		<idade>35</idade> 
+		<nascimento>1977-12-22</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>CELIO FRANCISCO DE SOUZA</nome>
+		<mae>GRACILINA ROSA DE JESUS</mae>
+		<idade>45</idade> 
+		<nascimento>1967-09-01</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>DEBORA FERREIRA DA SILVA</nome>
+		<mae>MARIA DAS GRACAS FERREIRA DA SILVA</mae>
+		<idade>23</idade> 
+		<nascimento>1989-09-28</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>MARCIA APARECIDA RIBEIRO DIAS</nome>
+		<mae>LAZARA RIBEIRO DE PAULA</mae>
+		<idade>30</idade> 
+		<nascimento>1983-03-02</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>ROGERIO ALVES DOS SANTOS</nome>
+		<mae>EDNA APARECIDA ALVES</mae>
+		<idade>21</idade> 
+		<nascimento>1991-07-31</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>ROBERTO GOMES</nome>
+		<mae>Geralda Gomes</mae>
+		<idade>33</idade> 
+		<nascimento>1979-04-16</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>DANILO RIBEIRO RODRIGUES</nome>
+		<mae>VERA LUCIA RIBEIRO RODRIGUES</mae>
+		<idade>24</idade> 
+		<nascimento>1988-03-26</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>Jessica Stefani Andrade Pinto</nome>
+		<mae>Solange Longo de Andrade Pinto</mae>
+		<idade>19</idade> 
+		<nascimento>1993-11-11</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>FLAVIO CLAUDIO DA COSTA</nome>
+		<mae>APARECIDA DE JESUS CLAUDINO</mae>
+		<idade>27</idade> 
+		<nascimento>1985-11-28</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>GERSON JOAQUIM DE LIMA</nome>
+		<mae>SEBASTIANA VERISSIMO DE LIMA</mae>
+		<idade>54</idade> 
+		<nascimento>1959-03-29</nascimento> 
+	</paciente>
+	<paciente>
+		<nome>CLOVIS MAURICIO</nome>
+		<mae>Gabriela Moreno Mauricio</mae>
+		<idade>66</idade> 
+		<nascimento>0000-00-00</nascimento> 
+	</paciente>
+</export-database>

@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<title>Autenticação - SISTB</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="css/styles.css" media="screen" />
+	<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+$(document).ready(function() {
+	// closing message
+	$('.message').live("click",function(){
+		$(this).animate({opacity: 0}, 250, function(){
+			$(this).slideUp(250, function(){$(this).remove()})});
+			return false;
+		}
+	);
+	$("body").css("background-color", "#f7f7f7");
+	var oh = $(".auth-form").outerHeight(),
+		ow = $(".auth-form").outerWidth();
+	$(".auth-form").css({top: -oh+"px", left: ($(window).width()-ow)/2 + "px"}).animate({top: ($(window).height() - oh)/2 + "px"}, 1000, "easeOutBack");
+});
+</script>
+<div id="wrapper">
+	<div class="box box-header-black auth-form">
+		<h3 class="header"><span class="header-2"><span class="header-3"><span class="color">Sistema da Tuberculose - SISTB</span></span></span></h3>
+		<div class="box-t1"><div class="box-t2"><div class="box-t3"></div></div></div>
+		<div class="box-1">
+			<div class="box-2">
+				<div class="box-3 header-on">
+					<div class="auth-content">
+						<form method="post"    action="login.php">
+							<p>
+								<label>Usuário:</label><br/>
+								<input type="text" class="text" name="login" />              
+							</p>
+							<p>
+								<label>Senha:</label><br/>
+								<input type="password" class="text" name="senha"/>
+							</p>
+							<p style="text-align:center;"><button type="submit" class="classy"><span>Entrar</span></button></p>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="box-b1"><div class="box-b2"><div class="box-b3"></div></div></div>
+	</div>
+</div>
+</body>
+</html>
